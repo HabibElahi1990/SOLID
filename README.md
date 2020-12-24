@@ -14,7 +14,7 @@ This repository is about SOLID principles in java
     * we show the different when we use this principle and when we don't
     
  * Open/Closed Principle
-    * Illustrate at least change after implementation
+    * Illustrate at least changes after implementation
     * we show the different when we use this principle and when we don't in two package withoutUsePrinciple and withUsePrinciple
   
  * Liskov Substitution Principle
@@ -26,5 +26,5 @@ This repository is about SOLID principles in java
     * we show the different when we use this principle and when we don't in two package withoutUsePrinciple and withUsePrinciple
     
  * Dependency Inversion Principle
-    * Illustrate high classed should not dependency low classes , it means by define.
+    * Illustrate high level classes should not dependency low level classes , it means by define.
     * we show the different when we use this principle and when we don't in two package withoutUsePrinciple and withUsePrinciple
